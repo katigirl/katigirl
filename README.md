@@ -1,5 +1,22 @@
-### Hi there 👋
+# Hi, I'm Kati,
 
+:scroll: freshly graduated from @green-fox-academy 's junior fullstack course. 
+
+👩‍💻: I'm open to work on the field of web development. 
+
+:seedling: I'm a continuous learner, open to new technologies, excited by innovative solutions.
+
+:rocket: I'm currently working on [Mondanivaló](https://mondanivalo.vercel.app).
+
+## Tech stack:
+
+## Top skills:[Katalin_T_Kovacs_CV.pdf]
+
+- :rugby_football: teamwork
+- :ant: perseverence
+- :guitar: creativity
+- :ear: communication
+- :dizzy: self-management
 <!--
 **katigirl/katigirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
