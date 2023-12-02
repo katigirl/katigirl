@@ -10,7 +10,7 @@
 
 ## Tech stack:
 
-## Top skills:[Katalin_T_Kovacs_CV.pdf]
+## Top skills:
 
 - :rugby_football: teamwork
 - :ant: perseverence
