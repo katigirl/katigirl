@@ -1,5 +1,5 @@
 <p align=center>
-<img src=https://github.com/katigirl/katigirl/assets/115567152/070b66ec-93e0-4e31-95f1-0455e84e3c79 alt="banner"/>
+<img src=https://github.com/katigirl/katigirl/assets/115567152/601975a4-d9e3-4c31-8487-c5a5392a2d14 alt="banner"/>
 <p/>
 
 :scroll: freshly graduated from @green-fox-academy 's junior fullstack course 
