@@ -1,4 +1,6 @@
-# Hi, I'm Kati,
+<p align=center>
+<img src=https://github.com/katigirl/katigirl/assets/115567152/309623c4-60d5-473b-b9de-83d3c53efce2 alt="banner"/>
+<p/>
 
 :scroll: freshly graduated from @green-fox-academy 's junior fullstack course. 
 
