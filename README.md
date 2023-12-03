@@ -2,9 +2,9 @@
 <img src=https://github.com/katigirl/katigirl/assets/115567152/6426e7ee-ca5f-489b-be3f-17b801002476 alt="banner"/>
 <p/>
 
-:scroll: freshly graduated from @green-fox-academy 's junior fullstack course 
+:scroll: freshly graduated from [Green Fox Academy](@green-fox-academy)'s junior fullstack course 
 
-👩‍💻: I'm open to work on the field of web development 
+👩‍💻 I'm open to work on the field of web development 
 
 :seedling: I'm a continuous learner, open to new technologies, excited by innovative solutions
 
