@@ -26,6 +26,8 @@
 ![Static Badge](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%230d4db5&labelColor=white&color=%230d4db5)
 ![Static Badge](https://img.shields.io/badge/Headless%20UI-black?logo=headlessui&logoColor=%234321b0&labelColor=white&color=%234321b0)
 ![Static Badge](https://img.shields.io/badge/shadcn%2Fui-black?logo=shadcnui)
+![Static Badge](https://img.shields.io/badge/Chakra%20UI-white?logo=chakraui&link=https%3A%2F%2Fchakra-ui.com%2F)
+
 
 ![Static Badge](https://img.shields.io/badge/git-black?logo=git&logoColor=%23b53f0d&labelColor=white&color=%23b53f0d)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=black&labelColor=white&color=black)
