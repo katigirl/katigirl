@@ -8,7 +8,9 @@
 
 :seedling: I'm a continuous learner, open to new technologies, excited by innovative solutions
 
-:rocket: I'm currently working on [Mondanivaló](https://mondanivalo.vercel.app)
+:rocket: I'm currently working on:
+  - [Game-hub](https://game-hub-katigirl.vercel.app/)
+  - [Mondanivaló](https://mondanivalo.vercel.app)
 
 ## Tech stack:
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react&logoColor=%231c6e91&labelColor=white&color=%231c6e91)
