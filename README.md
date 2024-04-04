@@ -8,17 +8,26 @@
 
 :seedling: I'm a continuous learner, open to new technologies, excited by innovative solutions
 
+:dart: My projects: 
+-  [GameHub](https://game-hub-katigirl.vercel.app/)
+-  [My Portfolio](https://katigirl.vercel.app/)
+
 :rocket: I'm currently working on:
-  - [Game-hub](https://game-hub-katigirl.vercel.app/)
   - [Mondanivaló](https://mondanivalo.vercel.app)
 
 ## Tech stack:
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react&logoColor=%231c6e91&labelColor=white&color=%231c6e91)
+![Static Badge](https://img.shields.io/badge/React%20Router%20-%20black?logo=reactrouter&labelColor=white&color=red)
+![Static Badge](https://img.shields.io/badge/React%20Query%20-%20white?logo=reactquery&logoColor=%23FF4154&labelColor=white&color=%23FF4154)
 ![Static Badge](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=black&labelColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/Node.js-black?logo=nodedotjs&logoColor=%23198a0f&labelColor=white&color=%23198a0f)
 ![Static Badge](https://img.shields.io/badge/Express-black?logo=express&logoColor=black&labelColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=%23fccf28&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=%2355a4fa&labelColor=black&color=black)
+
+![Static Badge](https://img.shields.io/badge/Jest%20-%20white?logo=jest&logoColor=%23C21325&labelColor=white&color=%23C21325)
+![Static Badge](https://img.shields.io/badge/Vitest%20-%20white?logo=vitest&logoColor=%236E9F18&labelColor=white&color=%236E9F18)
+![Static Badge](https://img.shields.io/badge/React%20Testing%20Library%20-%20white?logo=testinglibrary&logoColor=%23E33332&labelColor=white&color=%23E33332)
 
 ![Static Badge](https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=%23196e8c&labelColor=white&color=%23196e8c)
 ![Static Badge](https://img.shields.io/badge/PostgresSQL-black?logo=postgresql&logoColor=%23045070&labelColor=white&color=%23045070)
@@ -34,6 +43,7 @@
 ![Static Badge](https://img.shields.io/badge/git-black?logo=git&logoColor=%23b53f0d&labelColor=white&color=%23b53f0d)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=black&labelColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/Jira%20Software-black?logo=jirasoftware&logoColor=%230a54a3&labelColor=white&color=white)
+![Static Badge](https://img.shields.io/badge/Trello%20-%20white?logo=trello&logoColor=%230052CC&labelColor=white&color=%230052CC)
 ![Static Badge](https://img.shields.io/badge/SCRUM-%23112e4d)
 
 
