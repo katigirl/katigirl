@@ -9,7 +9,7 @@
 :seedling: I'm a continuous learner, open to new technologies, excited by innovative solutions
 
 :rocket: I'm currently working on:
-  - [Mondanivaló](https://mondanivalo.vercel.app)
+- [Mondanivaló](https://mondanivalo.vercel.app)
     
 :dart: My projects: 
 -  [GameHub](https://game-hub-katigirl.vercel.app/)
